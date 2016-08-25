@@ -1,2 +1,2 @@
 # LinkedStack
-不使用LinkedList实现栈内部的链式存储机制
+java实现不使用LinkedList实现栈内部的链式存储机制
